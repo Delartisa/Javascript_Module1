@@ -15,6 +15,7 @@ while(confirm === "s"){
     confirm = prompt("Mais alguma? (S/N)") // condicao para o loop continuar sendo verdadeiro ou se tornar falso
 }
 
+// saida de dados
 alert("Dados:\n\n" +
     "Nome do turista: " + touristName + "\n" +
     "Quantidade de cidades visitadas: " + visitedCities + "\n" +
