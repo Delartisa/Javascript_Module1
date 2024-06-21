@@ -6,7 +6,7 @@
 
 2. Existem duas formas de padronizar sua variavel, o camelCase (quando as palavras sao separadas por letras maiusculas. ex: horasTotais) e snakeCase (quado as palavras sao separadas por underline. ex: horas_totais), porem, a forma mais usada (e recomendada) e a camelCase pela sua simplicidade e forma enxuta.
 
-3. Encapsule a condicional em uma variavel, dessa forma, voce deixa o codigo mais claro e compreensivel
+3. Encapsule a condicional em uma variavel, dessa forma, voce deixa o codigo mais claro e compreensivel.
 
 REFERENCIAS:
 
